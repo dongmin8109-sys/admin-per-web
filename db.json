@@ -10,8 +10,8 @@
   "sessions": [
     {
       "token": "f0ce11e7-324c-4314-bcfb-581ce3f925a9",
-      "userId": "dongmin6103",
-      "role": "user",
+      "userId": "admin",
+      "role": "admin",
       "createdAt": "2025-10-19T11:43:22.106Z"
     }
   ]
