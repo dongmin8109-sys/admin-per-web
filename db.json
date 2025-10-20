@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "id": "dongmin6103",
+      "id": "admin",
       "password": "Ben0604$",
-      "role": "user"
+      "role": "admin"
     }
   ],
   "petitions": [],
